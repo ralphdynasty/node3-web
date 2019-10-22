@@ -8,6 +8,9 @@ body{
 	display:flex;
 	flex-direction: column; 
 	min-height: 100vh; 
+	background: url('../img/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg');
+	background-position: top;
+	background-size: cover;
 }
 
 .main{
